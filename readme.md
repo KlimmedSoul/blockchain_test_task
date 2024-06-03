@@ -13,4 +13,4 @@ npm run start:dev
 
 ## Swagger runs on 
 
-### [http://localhost:3001/api/swagger][sd]
+### http://localhost:3001/api/swagger
